@@ -1,0 +1,5 @@
+# Ignore the junk folder
+junk/
+
+# Ignore the secret file
+secret.html
